@@ -11,7 +11,7 @@ a. P(∅) = 0
 
 b. If α ⊆ β, then P(α) ≤ P(β).
 
-![b](https://latex.codecogs.com/svg.latex?\begin{align*}P(\beta)%20&=%20P(\beta%20\cap%20U)%20=%20P(\beta%20\cap%20(\alpha%20\cup%20\alpha^{\mathsf{c}}))%20=%20P((\beta%20\cap%20\alpha)%20\cup%20(\beta%20\cap%20\alpha^{\mathsf{c}}))%20\\\\&=%20P(\beta%20\cap%20\alpha)%20+%20P(\beta%20\cap%20\alpha^{\mathsf{c}})%20%20\quad\text{(definition%202.1)}%20%20\\\\&=%20P(\alpha)%20+%20P(\beta%20\cap%20\alpha^{\mathsf{c}})%20\\%20\\&\geq%20P(\alpha)%20\quad%20(\because%20P(\beta%20\cap%20\alpha^{\mathsf{c}})%20\geq%200%20\quad%20\text{by%20definition%202.1}%20)%20\\\end{align*})
+![b](https://latex.codecogs.com/svg.latex?\begin{align*}P(\beta)%20&=%20P(\beta%20\cap%20U)%20=%20P(\beta%20\cap%20(\alpha%20\cup%20\alpha^{\mathsf{c}}))%20=%20P((\beta%20\cap%20\alpha)%20\cup%20(\beta%20\cap%20\alpha^{\mathsf{c}}))%20\\\\&=%20P(\beta%20\cap%20\alpha)%20+%20P(\beta%20\cap%20\alpha^{\mathsf{c}})%20%20\quad\text{(definition%202.1)}%20%20\\\\&=%20P(\alpha)%20+%20P(\beta%20\cap%20\alpha^{\mathsf{c}})%20\\%20\\&\geq%20P(\alpha)%20\quad%20(\because%20P(\beta%20\cap%20\alpha^{\mathsf{c}})%20\geq%200%20\quad%20\text{by%20definition%202.1}%20)\end{align*})
 
 ```
 P(Ω) = P(Ω ∪ ∅)
