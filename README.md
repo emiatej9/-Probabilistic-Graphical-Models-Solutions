@@ -19,3 +19,5 @@ c. P(α ∪ β) = P(α) + P(β) - P(α ∩ β)
 
 ![c](https://latex.codecogs.com/svg.latex?\begin{align*}P(\alpha%20\cup%20\beta)%20=%20P(\alpha%20\cup%20(\beta%20-%20\alpha))%20&=%20P(\alpha)%20+%20P(\beta%20-%20\alpha)%20%20\quad\text{(definition%202.1)}%20%20\\\\&=%20P(\alpha)%20+%20P(\beta)%20-%20P(\alpha%20\cap%20\beta)%20\quad%20\text{by%20(1)}\\%20\end{align*})
 
+### Exercise 2.2
+a. Show that for binary random variable X, Y, the event-level independence (x^0 ⟂ y^0) implies random-variable independence (X ⟂ Y)
